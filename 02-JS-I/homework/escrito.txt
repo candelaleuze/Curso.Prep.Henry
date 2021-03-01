@@ -1,0 +1,5 @@
+Variables: son una parte de la estructura del lenguaje, y se ocupan de guardar valores, estas variables tienen nombre.
+Strings: son palabras delimitadas por comillas. 
+Funciones (argumentos, return): agrupa código, lo guarda y después se puede ejecutar. 
+Declaraciones if: 
+Valores booleanos (true, false): son variables que pueden tener dos valores posibles, uno falso y otro verdadero. 
