@@ -1,0 +1,2 @@
+Objetos: son una colecccion de propiedades, las propiedades son una asociacion entre un nombre/clave y un valor (key value). A su vez, las funciones que estan dentro del objeto se llaman metodos, estos metodos pueden anotarse con puntos (dot notation) o por brackets []. 
+Los bucles for..in recorre cada key del objeto y termina cuando se iteran todas las key. 
