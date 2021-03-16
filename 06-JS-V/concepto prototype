@@ -1,0 +1,2 @@
+Los constructores permiten crear objetos, y que estos objetos distintos puedan responder al mismo llamado, segun su naturaleza. 
+El prototype es a lo que todos los objetos en JS hacen referencia, de otro objeto. Es como las clases establecen metodos para que cada objeto pueda acceder a ellos. 
